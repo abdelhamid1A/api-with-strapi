@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_home_page_contents",
+  "info": {
+    "name": "content",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
